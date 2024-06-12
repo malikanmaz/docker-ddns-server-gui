@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/benjaminbear/docker-ddns-server/dyndns/ipparser"
+	"github.com/malikanmaz/docker-ddns-server-gui/dyndns/ipparser"
 )
 
 // GetIPType finds out if the IP is IPv4 or IPv6
