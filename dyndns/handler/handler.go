@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/benjaminbear/docker-ddns-server/dyndns/model"
+	"github.com/malikanmaz/docker-ddns-server-gui/dyndns/model"
 	"github.com/go-playground/validator/v10"
 	"github.com/labstack/echo/v4"
 	"github.com/tg123/go-htpasswd"
