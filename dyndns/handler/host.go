@@ -9,9 +9,9 @@ import (
 
 	l "github.com/labstack/gommon/log"
 
-	"github.com/benjaminbear/docker-ddns-server/dyndns/nswrapper"
+	"github.com/malikanmaz/docker-ddns-server-gui/dyndns/nswrapper"
 
-	"github.com/benjaminbear/docker-ddns-server/dyndns/model"
+	"github.com/malikanmaz/docker-ddns-server-gui/dyndns/model"
 	"github.com/labstack/echo/v4"
 	"gorm.io/gorm"
 )
