@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/benjaminbear/docker-ddns-server/dyndns/handler"
+	"github.com/malikanmaz/docker-ddns-server-gui/dyndns/handler"
 	"github.com/foolin/goview"
 	"github.com/foolin/goview/supports/echoview-v4"
 	"github.com/go-playground/validator/v10"
